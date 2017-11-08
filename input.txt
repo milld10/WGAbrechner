@@ -1,0 +1,16 @@
+o 3.00 etc
+t 1.79 oec
+t 2.00 oetc
+o 0.99 oc
+o 1.49 oet
+o 2.00 oe
+t 0.49 toc
+t 2.50 oet
+e 0.99 eto
+e 1.99 tc
+e 2.49 eoc
+e 1.29 eotc
+c 0.99 oec
+c 2.19 otc
+c 3.10 cteo
+c 1.89 cteo
